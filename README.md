@@ -2,5 +2,5 @@
 
 Run 
 ```
-go run folder_name.go
+go run go_file.go
 ```
