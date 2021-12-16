@@ -1,6 +1,6 @@
 # GolangPractice
 
-Run 
+Run golang
 ```
 go run go_file.go
 ```
